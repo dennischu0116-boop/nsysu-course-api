@@ -25,17 +25,18 @@
 
 ### 直接取用
 
-Repo 是公開的，可以直接用 raw URL 抓資料，不需要任何驗證：
+Repo 是公開的，可以直接用 raw URL 抓資料，不需要任何驗證（分支是 `master`）：
 
 ```
-https://raw.githubusercontent.com/<owner>/nsysu-course-api/main/data/current.json
-https://raw.githubusercontent.com/<owner>/nsysu-course-api/main/data/history/1151.json
+https://raw.githubusercontent.com/dennischu0116-boop/nsysu-course-api/master/data/current.json
+https://raw.githubusercontent.com/dennischu0116-boop/nsysu-course-api/master/data/semesters.json
+https://raw.githubusercontent.com/dennischu0116-boop/nsysu-course-api/master/data/history/1151.json
 ```
 
-或是透過 GitHub Pages（如果有開啟）：
+或是透過 GitHub Pages：
 
 ```
-https://<owner>.github.io/nsysu-course-api/data/current.json
+https://dennischu0116-boop.github.io/nsysu-course-api/data/current.json
 ```
 
 ### 欄位說明（`current.json` / `history/*.json`）
