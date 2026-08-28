@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+scripts/_captcha.png
+scripts/_*.png
