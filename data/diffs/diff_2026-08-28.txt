@@ -1,53 +1,53 @@
 新增 36 個班次
 消失 36 個班次
-選課人數變動 165 個班次
-  IOE801 邱文彬: registered 0→1
-  GEPE102C 許秀桃: registered 9→10
-  GEAE2117 林宜誠: registered 1→2, enrolled 33→32, remaining 17→18
-  GEAI1449 王致遠: registered 7→6
-  CAPS747 郭育仁: registered 1→2
-  GEAI1046 宋世祥: registered 2→4
-  BIOS210A 謝文發: registered 1→2
-  BM504 林政佑: registered 3→5
-  GEAI1521 詹鵬台: registered 3→2
-  CAPS750 黎寶文: registered 1→2
-  ENVE924A 陳則綸: enrolled 18→17, remaining 32→33
-  PE110 王俊傑: registered 0→1
-  ASPT579 林勇志: registered 4→5
-  GEAI1907 劉景寬: registered 3→4
-  SBF570 張綺真: registered 1→2
-  BM109 蔡宗霖: registered 3→4, enrolled 49→48, remaining 1→2
-  GEAE2135 王以亮: registered 3→4
-  GESL393 彭渰雯: registered 0→1
-  GENL0001G 陳秋宏: registered 4→5
-  GEAE2231 許家豪: registered 7→8
-  GEAE2406 于松桓,張美濙,李佶珉: registered 7→8
-  GEEN117B 陳美淑: registered 4→5
-  MOES332 陳致光: enrolled 30→29, remaining 20→21
-  GEPE102R 蔡宗晏: registered 7→8
-  GEAE2445 于欽平: registered 13→14
-  PHYS505 黃信銘: enrolled 15→14, remaining 35→36
-  SOC353 萬毓澤: enrolled 36→35, remaining 14→15
-  BM418 陳昭誠: enrolled 27→26, remaining 23→24
-  GESP412 陳福仁: registered 2→3
-  ASPT545 王志逢: registered 2→3
-  GEAI1215 陳延安: registered 0→1
-  GEAI1992 劉育真,葉俊吟: registered 1→2
-  GEAE2514B 吳長益,高資棟: registered 11→13
-  SBF509 賈安霈: registered 0→2
-  BM369 盧憶: enrolled 32→31, remaining 18→19
-  GEAE2632 劉叔秋,張詠斌: registered 11→12
-  GENL0001N 黃資婷: registered 2→3
-  GENL0004 林美芳: registered 0→1
-  CL267 黃羽璿: registered 0→1
-  GEAI1126 許家裕: registered 0→2
-  GEAE2432 王啟仲: registered 8→9
-  ASPT569 陳信助: registered 7→8
-  GEPE303 林國欽,羅凱暘,蔡鋒樺,黃義博: enrolled 33→32, remaining 67→68
-  BIOS530 吳長益: enrolled 5→4, remaining 45→46
-  GEAE2447 黃郁晴: registered 5→6
-  BIOS547 江友中: enrolled 6→5, remaining 44→45
-  HRM922 王豫萱: enrolled 29→27, remaining 11→13
-  MUSI314 鄭夙雯: enrolled 16→15, remaining 34→35
-  ASPT535 蔡潤波: registered 1→2
-  MEME5111 林哲信: registered 2→3
+選課人數變動 124 個班次
+  BM217 林晉禾: registered 0→1
+  IPS611 林婉萍: enrolled 18→17, remaining 22→23
+  GESP211 莊家雄: registered 3→4
+  CSE3001 蔡崇煒: registered 0→1
+  MEME310 劉耿豪,嚴成文,李伯軒,林哲信,楊政融,汪正祺,盧威廷,許煜亮,許聖彥,郭振坤,郭清德,鄭威利: registered 4→5
+  ASPT567A 黃仲平: registered 1→2
+  HRM659 何佳澔: registered 2→3
+  GEAE2328 吳亦昕: registered 2→3
+  IBBA152 林帆: registered 1→2
+  GEAE2344 伊藤佳代: registered 1→3
+  ASPT548 林明德: registered 2→3
+  GEAE2135 王以亮: registered 4→7
+  BM504 林政佑: registered 3→6
+  PHY102E 岩本祥: registered 0→1
+  GEAE2632 劉叔秋,張詠斌: registered 12→15
+  GEAE2109 楊濟襄: registered 0→1
+  GENL0001K 陳明聖: registered 5→6
+  GEAE2334 蘇其康: registered 0→1
+  MEME601 梁俊德: registered 0→1
+  PHY102D 周雄: registered 0→1
+  GEAE2231 許家豪: registered 8→9
+  GESL379 古錦松: registered 8→9
+  BM601 蔡宗霖: registered 1→3
+  GEAI1985 李孟娟: registered 1→3
+  CM507 王致遠,謝慧賢,鄭安授,陳世哲: registered 8→10
+  GEAE2156 盧莉茹: registered 3→4
+  ASPT535 蔡潤波: registered 2→4
+  GEAI1017 許智超: registered 3→4
+  HRM540 葉致微: registered 1→2
+  ASPT575 林勇志: registered 6→7
+  MEME6114 汪正祺: registered 0→2
+  GEAI1969 熊乃歡,王俞蓉,葉俊吟,郭素娥,陳嬿今: registered 5→6
+  MEME523 蔡尚南: enrolled 50→49, remaining 0→1
+  GENL0001B 鍾志偉: registered 8→9
+  GEAI1521 詹鵬台: registered 2→3
+  BM506 施欣宜: registered 0→1, enrolled 40→39, remaining 10→11
+  BM506 施欣宜: registered 0→1, enrolled 40→39, remaining 10→11
+  GEAH109 陳惠華: registered 0→1
+  GEAH126 蔡家和: registered 6→7
+  GENL0001N 黃資婷: registered 3→4
+  GESL415 郭瑞坤: registered 3→4
+  GEAI2100 森國松江: registered 1→2
+  BM412 洪能超: registered 1→2
+  GEAE2239 許家裕: registered 3→4
+  IPS611 林婉萍: enrolled 18→17, remaining 22→23
+  DFLL232A 森國松江: registered 3→4
+  GEAI1954 陳彥樺: registered 1→2
+  EE5111 馬誠佑: registered 0→1
+  PHYS115A 楊崇鑫: registered 0→1
+  PHY108C 吳紘丞: registered 0→1
