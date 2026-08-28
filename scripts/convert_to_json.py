@@ -31,6 +31,21 @@ def row_to_record(row):
     }
 
 
+def write_semesters_manifest(out_dir, data_dir):
+    """data/semesters.json -- sorted (newest first) list of semester codes
+    that have a data/history/{semester}.json file. Consumers should read
+    this instead of listing the folder via the GitHub API (rate-limited,
+    an extra third-party domain to depend on)."""
+    semesters = sorted(
+        (f[:-5] for f in os.listdir(out_dir) if f.endswith(".json")),
+        reverse=True,
+    )
+    manifest_path = os.path.join(data_dir, "semesters.json")
+    with open(manifest_path, "w", encoding="utf-8") as f:
+        json.dump(semesters, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"semesters manifest -> {manifest_path} ({len(semesters)} semesters)")
+
+
 def convert(csv_path, out_dir):
     by_semester = {}
     with open(csv_path, encoding="utf-8-sig") as f:
@@ -43,6 +58,8 @@ def convert(csv_path, out_dir):
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(records, f, ensure_ascii=False, separators=(",", ":"))
         print(f"{semester}: {len(records)} courses -> {out_path}")
+
+    write_semesters_manifest(out_dir, os.path.dirname(out_dir))
 
 
 if __name__ == "__main__":

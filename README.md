@@ -14,6 +14,12 @@
 | `data/meta.json` | 目前學期代碼、最後更新時間、課程數 | 跟著 `current.json` 一起更新 |
 | `data/diffs/diff_YYYY-MM-DD.txt` | 當天跟前一天比較的異動摘要（新增/消失班次、選課人數變動） | 有變化的那天才會產生 |
 | `data/history/{semester}.json` | 各學期完整課程清單（無即時人數，只有最終「修課人數」） | 靜態，不會自動更新 |
+| `data/semesters.json` | `data/history/` 底下有哪些學期代碼可查，由新到舊排序 | 每次跑 `convert_to_json.py` 重新產生歷史資料時一起更新 |
+
+**想知道有哪些學期可查，請讀 `data/semesters.json`，不要用 GitHub API 去列
+`data/history/` 資料夾**——未登入的 GitHub API 有每小時 60 次的速率限制，
+`semesters.json` 純粹是我們自己網域下的一個靜態檔案，沒有這個限制，也少一個
+第三方網域依賴。
 
 學期代碼格式是「學年+期」：`1`=上學期、`2`=下學期、`3`=暑期，例如 `1151`＝115學年度上學期。
 
