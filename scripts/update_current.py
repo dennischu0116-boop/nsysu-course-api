@@ -43,6 +43,7 @@ def record_to_json(r, semester):
         "room": r["room"],
         "schedule": r["schedule"],
         "english": "英語授課" in r["remarks"],
+        "tags": r.get("tags", []),
         "remarks": r["remarks"].strip() or None,
     }
 

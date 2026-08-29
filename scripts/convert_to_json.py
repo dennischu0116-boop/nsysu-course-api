@@ -27,6 +27,7 @@ def row_to_record(row):
         "room": row["room"],
         "schedule": {d: row[d] for d in ["一", "二", "三", "四", "五", "六", "日"] if row[d]},
         "english": "英語授課" in row["remarks"],
+        "tags": row["tags"].split("|") if row["tags"] else [],
         "remarks": row["remarks"] or None,
     }
 

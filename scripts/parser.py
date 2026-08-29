@@ -5,6 +5,19 @@ WEEKDAYS = ["一", "二", "三", "四", "五", "六", "日"]
 ROOM_RE = re.compile(r"^(?P<day>[一二三四五六日])?(?P<periods>[0-9A-Fa-f,]*)\((?P<room>.*)\)\s*$")
 
 
+def extract_tags_and_remarks(cell):
+    """The 備註 cell wraps each 學程/微學程 tag in its own <font> element
+    (plain text otherwise, e.g. 《講授類》/限本系學生修習/※英語授課). Pull
+    those out as a structured tags list and leave the rest as free-text
+    remarks, instead of lumping everything into one blob."""
+    tags = []
+    for f in cell.find_all("font"):
+        tags.append(f.get_text(strip=True))
+        f.extract()
+    remarks = cell.get_text(separator="\n", strip=True)
+    return tags, remarks
+
+
 def parse_page(html):
     """Parse one result page's HTML into (records, pagination_info)."""
     soup = BeautifulSoup(html, "html.parser")
@@ -28,7 +41,7 @@ def parse_page(html):
             registered, enrolled, balance = text(tds[12]), text(tds[13]), text(tds[14])
             teacher, room_raw = text(tds[15]), text(tds[16])
             weekday_cells = [text(tds[17 + i]) for i in range(7)]
-            remarks = tds[24].get_text(separator="\n", strip=True)
+            tags, remarks = extract_tags_and_remarks(tds[24])
         elif len(tds) >= 21:
             # historical (歷年課程, HIS=2) format: no 異動/多門必修, no 點選/選上/餘額,
             # instead the first two cells are 學年/學期
@@ -42,7 +55,7 @@ def parse_page(html):
             enrolled = text(tds[10])
             teacher, room_raw = text(tds[11]), text(tds[12])
             weekday_cells = [text(tds[13 + i]) for i in range(7)]
-            remarks = tds[20].get_text(separator="\n", strip=True)
+            tags, remarks = extract_tags_and_remarks(tds[20])
         else:
             continue  # not a data row (safety check)
 
@@ -83,6 +96,7 @@ def parse_page(html):
             "teacher": teacher,
             "room": room,
             "schedule": weekday_periods,
+            "tags": tags,
             "remarks": remarks,
         })
 
