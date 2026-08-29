@@ -1,1 +1,53 @@
-新增 2757 個班次
+新增 4 個班次
+消失 1 個班次
+選課人數變動 1446 個班次
+  UT514 陳信宏: registered 0→2
+  GEAE2117 林宜誠: registered 2→24, enrolled 32→31, remaining 18→19
+  PAM907A 蔡錦昌: registered 0→1
+  EE1300 陳伯煒: registered 0→4, enrolled 55→54, remaining 15→16
+  IPS654 張晉赫: registered 1→2
+  AME554B 羅毅恩: enrolled 3→2, remaining 47→48
+  GEAI1826 王以亮: registered 3→8
+  ISM546 林明德: registered 1→3
+  LIBA137 陳俊宏: registered 0→3
+  GEAE2406 于松桓,張美濙,李佶珉: registered 8→22
+  FM558 陳俐聿: registered 1→4
+  MAEV603 指導教授: registered 0→1
+  IICD505 李宗哲: enrolled 24→22, remaining 26→28
+  GEPE102A 羅凱暘: registered 3→11
+  GEAI1644 李春雄: registered 1→4
+  ISM570 謝佳旭: registered 0→1
+  AME503 張正霖,陳尚盈: enrolled 13→12, remaining 37→38
+  MUSI231 唐佳迎: registered 2→4
+  AI50015 AI聯盟教師,徐瑞壕: registered 0→2
+  GEPE230 蔡睿洋: registered 4→20
+  GEPE210A 羅郁平: registered 0→1
+  PHYS313H 盧怡穎: registered 0→1
+  GEPE203 林宗正: registered 4→12
+  EE5533 郭志文: registered 0→1, enrolled 3→2, remaining 47→48
+  MAEV5600 王右仁: registered 0→1
+  TA276A 曾景濱: registered 0→1
+  DFLL236A 王柔惠: registered 0→3, enrolled 20→19, remaining 0→1
+  CM411 王致遠,謝慧賢,鄭安授,陳世哲: registered 0→13, enrolled 77→74, remaining 123→126
+  PAM590 謝政勳: registered 0→2
+  TA232A 張正霖: registered 1→5
+  HRM996 劉念琪: registered 0→3
+  DFLL330 林毓凱: registered 0→2
+  MEME322 汪正祺: registered 0→1
+  PHY102A 陳龍銘: registered 1→2
+  PE204 童永年: registered 0→3, enrolled 54→53, remaining 1→2
+  TA104 李怡賡: registered 0→1
+  IGPM701 王敬湧,王興麟: registered 0→1
+  GEAI1535 張瑜峻: registered 0→3, enrolled 2→1, remaining 18→19
+  BIOS465 邊安台: registered 2→4, enrolled 7→6, remaining 43→44
+  IB533 卓雍然: registered 1→2
+  GEAE2148 張正霖: registered 0→6
+  IGPM705 張桂祥,王敬湧,王興麟: registered 0→1
+  EE5122 黃義佑: registered 0→1
+  GEPE228 林國欽: registered 1→4, enrolled 50→48, remaining 0→2
+  GESL351 林梅芳,林裕䕒: registered 0→6
+  GEAE2109 楊濟襄: registered 1→7
+  MEME532 黃永茂: registered 0→3
+  GEAE2226 伊藤佳代: registered 7→31, enrolled 70→69, remaining 0→1
+  ICE503 溫朝凱: registered 0→5, enrolled 50→49, remaining 0→1
+  MEME5109 郭清德: registered 3→10
