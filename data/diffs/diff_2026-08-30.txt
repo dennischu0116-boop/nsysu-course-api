@@ -1,0 +1,51 @@
+選課人數變動 505 個班次
+  EE3106 莊豐任: registered 6→7
+  GEAE2348 希家玹: registered 4→5
+  GEAE2633 林裕䕒: registered 15→16
+  PHY102A 陳龍銘: registered 2→3
+  GEAI1970 陳彥樺: registered 11→12
+  PHY102B 陳宗緯: registered 6→8
+  PE207 陳若蘭: registered 5→6
+  CM514 王昭文: registered 1→2
+  CSE515 林俊宏: enrolled 53→52, remaining 7→8
+  FM618 張世賢: registered 2→4
+  GEAI1048 宋世祥: registered 15→17
+  GENL0001M 陳明聖: registered 12→13
+  GEAI1328B 王朝欽: registered 1→2
+  IPS540 方志恒: enrolled 15→14, remaining 5→6
+  GEAI1592 塗子萱,張水鍇: registered 16→19
+  MAPA532 林正義: enrolled 22→21, remaining 28→29
+  GEAE2205 楊婉儀: registered 16→17
+  ICE503 溫朝凱: registered 7→8
+  BM504 林政佑: registered 17→18
+  PHYS111 陳美如: registered 4→5
+  DO671 張瑜峻,張詠斌,徐澔德,林玉詩,洪慶章,簡國童,雷漢杰: registered 2→3
+  PHYS334 邱奎霖: registered 0→1
+  DO727 王敬湧: enrolled 6→5, remaining 44→45
+  CSE124 柯正雯: registered 7→8
+  GEAE2520 劉叔秋: registered 11→12
+  IBMS629 楊仁豪: registered 1→2
+  GEAH109 陳惠華: registered 21→24
+  GEAE2238 王俞蓉: registered 19→20
+  EE5336 周孜燦: registered 3→4
+  BIOS101A 梁子輝: registered 1→2
+  PHY102E 岩本祥: registered 3→4
+  MIS580 楊淯程: registered 2→3
+  GEPE208 羅凱暘: registered 17→20
+  BIOS547 江友中: registered 2→3
+  EE5542 王復康: registered 3→4
+  STP170 邱文彬,鄭雯: registered 8→10
+  MUSI535 曾加宜,謝孟軒: registered 0→1
+  DO508 洪慶章: registered 1→2
+  GEAI1768 王以亮: registered 3→4
+  BM345 陳信智: registered 7→9
+  EE2406 謝耀慶: registered 3→4
+  GEAE2219 戴遠雄: registered 13→14
+  CL105 莫加南: registered 3→4
+  IOE528 游銘仁: registered 0→1
+  HRM632 陳世哲: registered 0→1
+  FM548 封之遠: enrolled 19→17, remaining 31→33
+  FM323 蔡秉真: registered 4→5
+  GEAE2529 AI聯盟教師: registered 22→23
+  GEAIE802 林毓凱: registered 11→13
+  STP182 楊淑晴: registered 4→5
