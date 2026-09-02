@@ -1,0 +1,36 @@
+新增 59 個班次
+消失 62 個班次
+選課人數變動 33 個班次
+  NURS201 王俞蓉,王美卿,陳宜彣: enrolled 38→37, remaining 12→13
+  NURS203 熊乃歡,葉俊吟,郭素娥,陳嬿今,陳宜彣: enrolled 38→37, remaining 12→13
+  CL504 杜佳倫,紀志昌,莫加南: enrolled 16→14, remaining 34→36
+  GEAI1405 林晉禾: enrolled 10→11, remaining 0→-1
+  GEPE203 林宗正: enrolled 25→27, remaining 0→-2
+  TA395 約書亞沙發兒: enrolled 14→15, remaining 36→35
+  TA302 黃資絜: enrolled 39→38, remaining 11→12
+  MBR204 張均然: enrolled 39→38, remaining 11→12
+  PAM509 謝政勳: enrolled 13→12, remaining 37→38
+  EMM625 林瑞欽: enrolled 19→18, remaining 4→5
+  ASPT569 陳信助: enrolled 45→44, remaining 0→1
+  ASPT575 林勇志: enrolled 45→43, remaining 0→2
+  ASPT530A 郭紹偉: enrolled 32→30, remaining 0→2
+  MBR202 張均然: enrolled 50→49, remaining 0→1
+  NURS202B 王俞蓉: enrolled 7→6, remaining 43→44
+  ISM577 王俊明: enrolled 9→7, remaining 0→2
+  MIS501 徐士傑: enrolled 49→48, remaining 1→2
+  ASPT577 王俊明: enrolled 5→4, remaining 0→1
+  EMM611 潘正堂: enrolled 5→4, remaining 0→1
+  ASPT579 林勇志: enrolled 32→30, remaining 0→2
+  PHYS503 史丹哲夫: enrolled 43→42, remaining 7→8
+  ISM545 蔡崇煒: enrolled 9→8, remaining 0→1
+  STP182 楊淑晴: enrolled 10→9, remaining 40→41
+  EMM665 黃仲平: enrolled 19→18, remaining 4→5
+  NURS204 李容婷: enrolled 38→37, remaining 12→13
+  MBR227 劉商隱,水晶: enrolled 43→42, remaining 7→8
+  ISM520 馬誠佑: enrolled 38→34, remaining 12→16
+  ISM575 謝佳旭: enrolled 9→8, remaining 0→1
+  EMM650 鍾秀瑩: enrolled 14→13, remaining 9→10
+  EMM620 林瑞欽: enrolled 25→23, remaining 5→7
+  MBR306 廖志中,廖睿妘,李益銘: enrolled 43→42, remaining 7→8
+  ISM550 黃義佑: enrolled 32→28, remaining 8→12
+  PAM908 指導教授: enrolled 21→20, remaining 29→30
