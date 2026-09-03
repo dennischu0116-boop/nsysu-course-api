@@ -1,0 +1,17 @@
+新增 13 個班次
+消失 13 個班次
+選課人數變動 14 個班次
+  MOES543 郭紹偉: enrolled 60→59, remaining 0→1
+  EE5100 謝耀慶: enrolled 127→125, remaining 23→25
+  MOES501 李廣輝: enrolled 70→68, remaining 0→2
+  ICM909 指導教授: enrolled 14→13, remaining 36→37
+  MOES546 蔣酉旺: enrolled 35→34, remaining 25→26
+  MOES508 曼哈迪: enrolled 15→14, remaining 17→18
+  MOES501 李廣輝: enrolled 70→68, remaining 0→2
+  MUSI505 郭瓊嬌: enrolled 19→18, remaining 31→32
+  MOES508 曼哈迪: enrolled 15→14, remaining 17→18
+  MOES592 陳致光: enrolled 6→5, remaining 14→15
+  MOES546 蔣酉旺: enrolled 35→34, remaining 25→26
+  EO5001 洪裕涵: enrolled 93→92, remaining 7→8
+  MOES592 陳致光: enrolled 6→5, remaining 14→15
+  MOES543 郭紹偉: enrolled 60→59, remaining 0→1
