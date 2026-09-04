@@ -1,0 +1,31 @@
+新增 5 個班次
+消失 5 個班次
+選課人數變動 28 個班次
+  PAM501 彭渰雯: enrolled 20→19, remaining 30→31
+  EMM620 林瑞欽: enrolled 23→21, remaining 7→9
+  ECON502 李慶男: enrolled 30→29, remaining 20→21
+  ECON501 童永年: enrolled 31→30, remaining 19→20
+  PAM505 吳偉寧: enrolled 18→17, remaining 32→33
+  EMM665 黃仲平: enrolled 18→17, remaining 5→6
+  DIS1001 張淑美,許智超: enrolled 47→46, remaining 3→4
+  CSE583 蕭勝夫: enrolled 47→48, remaining 3→2
+  MATH523 張福春: enrolled 9→8, remaining 21→22
+  TA302 黃資絜: enrolled 38→37, remaining 12→13
+  ASPT510 潘正堂: enrolled 27→26, remaining 5→6
+  ASPT579 林勇志: enrolled 30→29, remaining 2→3
+  CHEM214 曾韋龍: enrolled 29→30, remaining 21→20
+  ECON510 許嘉麟: enrolled 30→29, remaining 20→21
+  MATH503 張中: enrolled 17→16, remaining 13→14
+  ECON503 陳冠任: enrolled 31→30, remaining 19→20
+  GEAH110 陳惠華: registered 41→40, enrolled 60→61, remaining 0→-1
+  ASPT545 王志逢: enrolled 32→31, remaining 0→1
+  ASPT575 林勇志: registered 6→7, enrolled 43→42, remaining 2→3
+  DIS1002 宋世祥: enrolled 40→39, remaining 0→1
+  CL201 羅景文: enrolled 44→45, remaining 6→5
+  MUSI101 楊智欽: capacity 50→70, remaining 0→20
+  MATH532 李宗錂: enrolled 19→18, remaining 1→2
+  EMM625 林瑞欽: enrolled 18→17, remaining 5→6
+  DIS1003 鄭南玉: enrolled 40→39, remaining 0→1
+  GEAH126 蔡家和: registered 60→59, enrolled 50→51, remaining 0→-1
+  EMM650 鍾秀瑩: enrolled 13→12, remaining 10→11
+  GEAI1449 王致遠: enrolled 90→89, remaining 0→1
