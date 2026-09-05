@@ -1,0 +1,53 @@
+新增 10 個班次
+消失 9 個班次
+選課人數變動 58 個班次
+  CSE220 鄺獻榮: enrolled 60→59, remaining 0→1
+  IOE554 鄭雯: enrolled 18→17, remaining 12→13
+  GEAI1649 謝旭昇: enrolled 80→79, remaining 0→1
+  CSE515 林俊宏: enrolled 57→55, remaining 3→5
+  IMST538 林遠彬: enrolled 19→17, remaining 11→13
+  ASPT569 陳信助: enrolled 44→43, remaining 1→2
+  ASPT535 蔡潤波: enrolled 32→31, remaining 0→1
+  MOES512 杭大任: enrolled 18→17, remaining 2→3
+  CSE533 陳嘉平: enrolled 92→91, remaining 28→29
+  MOES506 張六文: enrolled 18→17, remaining 2→3
+  EE1301A 魏家博: registered 2→1, enrolled 32→33, remaining 38→37
+  MOES512 杭大任: enrolled 18→17, remaining 2→3
+  EMM650 鍾秀瑩: enrolled 12→11, remaining 11→12
+  IB502 陳偉慶: enrolled 42→41, remaining 8→9
+  ICM532 王紹蓉: enrolled 41→42, remaining 9→8
+  CSE210 柯拉飛: enrolled 65→64, remaining 10→11
+  MOES501 李廣輝: enrolled 68→67, remaining 2→3
+  IB616 陳偉慶: enrolled 43→42, remaining 7→8
+  MEME307 許聖彥: registered 3→4, enrolled 63→62, remaining 7→8
+  EE5100 謝耀慶: enrolled 125→124, remaining 25→26
+  MEME532 黃永茂: enrolled 39→38, remaining 11→12
+  IMST607 呂睿騰,巫常誠: enrolled 7→5, remaining 8→10
+  EMM620 林瑞欽: enrolled 21→20, remaining 9→10
+  MEME529 盧威廷: enrolled 25→24, remaining 25→26
+  MEME5109 郭清德: enrolled 49→48, remaining 1→2
+  MOES557 徐瑞鴻: enrolled 17→16, remaining 3→4
+  CSE505 李淑敏: enrolled 70→68, remaining 0→2
+  IB539 劉易: enrolled 41→40, remaining 9→10
+  MOES506 張六文: enrolled 18→17, remaining 2→3
+  MEME5111 林哲信: enrolled 99→98, remaining 1→2
+  MEME502 鄭威利: enrolled 12→11, remaining 38→39
+  CSE531 陳嘉平: enrolled 115→113, remaining 5→7
+  CSE510 楊昌彪: enrolled 76→74, remaining 4→6
+  MOES503 王致傑: enrolled 50→49, remaining 0→1
+  MEME562 邱源成: enrolled 49→48, remaining 1→2
+  IB538 劉易: enrolled 41→40, remaining 9→10
+  GENL0003 邱坤玉: enrolled 6→5, remaining 44→45
+  MOES557 徐瑞鴻: enrolled 17→16, remaining 3→4
+  GEPE205 林國欽: enrolled 50→49, remaining 0→1
+  MEME601 梁俊德: enrolled 20→19, remaining 30→31
+  IMST501 莊承鑫: enrolled 14→12, remaining 6→8
+  EMM625 林瑞欽: enrolled 17→16, remaining 6→7
+  MEME501 許聖彥: registered 0→1, enrolled 109→107, remaining 41→43
+  MEME549 嚴成文: registered 3→4, enrolled 47→46, remaining 28→29
+  CSE391 克拉迪: enrolled 60→59, remaining 0→1
+  PHY102C 錢德勒: capacity 50→90, remaining -28→12
+  IMST608 李柏群,袁建漢: enrolled 8→6, remaining 7→9
+  EMM665 黃仲平: enrolled 17→16, remaining 6→7
+  IMST606 鄒綉菊,金憲國: enrolled 7→5, remaining 13→15
+  MEME505 鄭威利: enrolled 10→9, remaining 40→41
