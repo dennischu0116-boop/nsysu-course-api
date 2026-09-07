@@ -1,0 +1,24 @@
+新增 4 個班次
+消失 4 個班次
+選課人數變動 21 個班次
+  MEME103A 朱訓鵬: registered 1→0, enrolled 41→42, remaining 9→8
+  CSE583 蕭勝夫: enrolled 48→51, remaining 2→-1
+  ASPT530A 郭紹偉: enrolled 30→29, remaining 2→3
+  IB695 劉易: enrolled 0→14, remaining 50→36
+  PHIL501 宋灝: enrolled 9→10, remaining 41→40
+  PAM501 彭渰雯: enrolled 19→18, remaining 31→32
+  CSE510 楊昌彪: registered 1→0
+  CSE505 李淑敏: enrolled 68→67, remaining 2→3
+  MUSI314 鄭夙雯: enrolled 16→18, remaining 34→32
+  CSE520 王友群: enrolled 69→68, remaining -9→-8
+  CSE531 陳嘉平: enrolled 113→112, remaining 7→8
+  MA501 林裕䕒: enrolled 9→8, remaining 41→42
+  PAM505 吳偉寧: enrolled 17→16, remaining 33→34
+  ASPT545 王志逢: enrolled 30→29, remaining 2→3
+  ASPT567A 黃仲平: enrolled 31→30, remaining 1→2
+  MEME102A 曾偉智: registered 1→0, enrolled 33→34, remaining 17→16
+  IB693 珍妮: enrolled 0→14, remaining 50→36
+  ASPT580 汪正祺,王郁仁: enrolled 31→30, remaining 1→2
+  ASPT535 蔡潤波: enrolled 31→30, remaining 1→2
+  MA502 蔡宏政: enrolled 8→7, remaining 42→43
+  CSE515 林俊宏: enrolled 55→54, remaining 5→6
