@@ -1,0 +1,53 @@
+新增 24 個班次
+消失 24 個班次
+選課人數變動 1559 個班次
+  BM413 蔡宗霖: registered 0→4
+  BMST204 楊易軒: enrolled 47→46, remaining 3→4
+  GEAI1322 李宗璘: enrolled 3→1, remaining 7→9
+  EO5002 王耀霆: registered 0→1, enrolled 12→11, remaining 38→39
+  ECON921 翁銘章: registered 0→2, enrolled 10→9, remaining 40→41
+  IB521 馬威爾: enrolled 32→31, remaining 3→4
+  BIOS211 黃淑萍: registered 1→0
+  ICM561 王紹蓉: registered 0→1
+  CL267 黃羽璿: registered 1→4, enrolled 29→27, remaining 21→23
+  MBR238 張鈞涵: registered 0→2
+  GEAI1644 李春雄: registered 4→0
+  DO210 李逸環: registered 0→2
+  CSE110 徐瑞壕: registered 3→2
+  MATH205 張中: registered 1→0
+  GEAI1908 張玉泉,李佶珉,鄭光宏: registered 18→5, enrolled 53→52, remaining 42→43
+  EO3033 張美濙: registered 0→2
+  FM510 廖源星: registered 3→2, enrolled 30→29, remaining 20→21
+  IBPS501 施柏漳,賴至人: registered 0→1
+  MOES513 蘇威宏: registered 0→7
+  MATH306 施嘉翰: registered 0→1
+  STP105 鄭雯: registered 1→2
+  PHYS216 陳宗緯: registered 2→1
+  EE5503 翁金輅: registered 0→2, enrolled 26→24, remaining 24→26
+  BMST103 陳延安: enrolled 50→49, remaining 0→1
+  PHYS313H 盧怡穎: registered 0→1
+  EE5416 謝耀慶: registered 0→1, enrolled 32→30, remaining 18→20
+  PE101 張光亮: registered 9→1, enrolled 55→53, remaining 0→2
+  IB533 卓雍然: registered 1→0, enrolled 20→19, remaining 0→1
+  GEAI1579 塗子萱: registered 2→0
+  BM847 吳基逞: registered 0→1
+  MUSI113 李思嫺: registered 1→0
+  PAM613 黃奕臻: registered 1→0
+  GEAI1833 羅景文: registered 4→5
+  IB502 陳偉慶: registered 0→1, enrolled 41→40, remaining 9→10
+  EO1004 林元堯: registered 1→0
+  GCMA004 賴慧玲,邱花妹: registered 0→1
+  CSE639 希家史提夫: registered 1→2, enrolled 41→38, remaining 9→12
+  GEAE2526 邊安台: registered 2→5, enrolled 55→54, remaining 15→16
+  EO5266 王耀霆: registered 0→1
+  MAPA541 林文程: registered 0→3
+  PHYS203 呂浩宇: registered 0→1
+  GEPE102S 洪維辰: registered 38→11
+  CSE3002 克拉迪: registered 0→3
+  IHCM501 林芳伃: enrolled 12→11, remaining 38→39
+  GEAI1405 林晉禾: registered 30→1
+  GEAI2112 陳麗雅: registered 6→1
+  BIOS101 蔡明利: registered 1→3, enrolled 37→36, remaining 13→14
+  MIS424 康藝晃: registered 0→1
+  MEME562 邱源成: registered 7→12
+  GEAE2154 林宜誠: registered 2→3, enrolled 45→44, remaining 5→6
