@@ -1,0 +1,53 @@
+新增 25 個班次
+消失 25 個班次
+選課人數變動 1401 個班次
+  PHYS303 朱家誼: enrolled 37→36, remaining 33→34
+  CAPS594 林雅淇: registered 1→3, enrolled 8→7, remaining 42→43
+  PHYS694 黃信銘: registered 0→1
+  MATH205 張中: registered 0→1, enrolled 50→49, remaining 0→1
+  EO5061 洪玉珠: enrolled 30→29, remaining 20→21
+  GEAH126 蔡家和: registered 7→11
+  EE5111 馬誠佑: registered 4→9, enrolled 43→40, remaining 17→20
+  ENVE532 陳谷汎: registered 1→3, enrolled 24→23, remaining 26→27
+  SBF501 彭聰敏: registered 2→3, enrolled 39→38, remaining 31→32
+  CHEM547 劉柏宏: registered 0→1
+  SOC302 萬毓澤: registered 0→1
+  MEME537 吳美玲: registered 5→7
+  GEPE102K 蔡宗晏: registered 1→2
+  MOES430 王映樵: enrolled 31→29, remaining 29→31
+  IBBA206 陳文鑫: enrolled 38→36, remaining 12→14
+  MEME305B 李伯軒: registered 0→1
+  MIS303 林耕霈: enrolled 48→46, remaining 2→4
+  MOES557 徐瑞鴻: registered 3→4
+  EO3033 張美濙: enrolled 41→40, remaining 9→10
+  HRM702 紀乃文: enrolled 2→0, remaining 28→30
+  TA530 約書亞沙發兒: registered 0→2
+  GENL0001K 陳明聖: registered 4→26
+  GEAI1439 林晉禾: registered 0→1
+  GEAE2622 夏燦風: registered 2→8, enrolled 49→48, remaining 1→2
+  IGPE703 艾玲: enrolled 7→6, remaining 23→24
+  MED137 陳彥樺: registered 3→6
+  MUSI361 林鴻君: registered 1→3
+  IPS501 張晉赫: registered 2→4
+  MBR552 林梅芳: enrolled 6→5, remaining 44→45
+  EE2006 莊豐任,謝耀慶: registered 0→1
+  GEAE2515 許晉銓: registered 4→22
+  IB541 陳文鑫: enrolled 16→15, remaining 19→20
+  MIS526 李捷: registered 5→12, enrolled 30→28, remaining 0→2
+  DFLL322 范澤凱: registered 1→2, enrolled 14→13, remaining 36→37
+  STP170 邱文彬,鄭雯: registered 0→1
+  EE3317 李宗璘,翁愷貽,謝耀慶,鄧人豪: registered 6→10, enrolled 51→49, remaining 49→51
+  EO5272 林煒淳: registered 2→5
+  CL505 黃資婷: enrolled 1→0, remaining 49→50
+  FM403 蕭珮婕: registered 0→2
+  GEAE2238 王俞蓉: registered 2→3
+  CHEM505 梁蘭昌: registered 0→2, enrolled 21→20, remaining 29→30
+  MEME707 吳美玲: enrolled 6→5, remaining 44→45
+  SOC516 戴昀: registered 1→0
+  GEAE2613 劉叔秋,張水鍇,張詠斌,李育諭: registered 3→9
+  CSE530F 柯拉飛: registered 1→4
+  BM315 王萬成: registered 0→2, enrolled 12→9, remaining 38→41
+  GEAI1323B 魏家博: registered 1→4
+  GEAE2445 于欽平: registered 1→13, enrolled 120→117, remaining 0→3
+  MAEV628 歐雅森: registered 0→3
+  EO1004 林元堯: registered 0→1, enrolled 41→40, remaining 9→10
