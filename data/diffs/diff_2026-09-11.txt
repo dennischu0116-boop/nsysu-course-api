@@ -1,0 +1,53 @@
+新增 18 個班次
+消失 20 個班次
+選課人數變動 1147 個班次
+  GESL421 吳亦昕: registered 3→4
+  FM202 蔡佳芬: registered 11→13
+  FM611 陳俐聿: registered 0→1
+  CHEM505 梁蘭昌: enrolled 20→19, remaining 30→31
+  GENL0001I 林孜曄: registered 3→4
+  EE1300A 陳伯煒: enrolled 41→40, remaining 29→30
+  EE5336 周孜燦: capacity 50→70, enrolled 39→35, remaining 11→35
+  BM302 陳妮雲: registered 6→8
+  SOC263 楊靜利: registered 2→6, enrolled 32→31, remaining 18→19
+  SBF564 李汀洧: registered 1→2
+  MEME437 林哲信: registered 1→2
+  STP262 待聘: enrolled 1→0, remaining 49→50
+  GEAI2100 森國松江: registered 12→16, enrolled 8→7, remaining 2→3
+  GEAIE802 林毓凱: registered 4→6
+  HRM674 鄭怡玲: registered 3→5
+  DO103 蔡明利: registered 1→2
+  GEAI1653 陳孟瑋: registered 4→5, enrolled 27→26, remaining 3→4
+  CSE727 吳建澄: registered 9→11, enrolled 34→33, remaining 16→17
+  MOES591 王映樵: registered 1→0
+  DO203 陳慶能: registered 2→1, enrolled 43→42, remaining 7→8
+  BM506 施欣宜: enrolled 40→38, remaining 10→12
+  GEAE2625 李育諭,林季怡: registered 24→35, enrolled 59→58, remaining 1→2
+  IMST538 林遠彬: enrolled 15→13, remaining 15→17
+  MRSC114 林梅芳,王興麟,陳冠宇: registered 22→26, enrolled 76→74, remaining 74→76
+  ISM577 王俊明: registered 4→5
+  IBMS629 楊仁豪: enrolled 4→3, remaining 16→17
+  CL121 涂書瑋: registered 3→5, enrolled 22→20, remaining 28→30
+  OWP501 王右仁: registered 5→6
+  MAEV522 歐雅森: registered 2→3
+  BM346 王萬成: enrolled 18→17, remaining 32→33
+  MUSI314 鄭夙雯: enrolled 23→25, remaining 27→25
+  MAEV679 許弘莒: registered 3→4
+  MIS502 李家瑩: enrolled 34→33, remaining 16→17
+  GEPE102F 林國欽: registered 11→14, enrolled 53→52, remaining 2→3
+  CHEM548 謝建台: enrolled 21→20, remaining 29→30
+  IHCM501 林芳伃: registered 0→1
+  TA521 約書亞沙發兒: registered 1→2
+  GEAIE700 紀博善: registered 4→8
+  GEAE2444 AI聯盟教師,楊政融: registered 23→30, enrolled 39→38, remaining 6→7
+  MEME562 邱源成: registered 18→21
+  ENVE545 林淵淙: enrolled 10→9, remaining 10→11
+  MEME577 胡龍豪: registered 4→5, enrolled 15→13, remaining 45→47
+  MOES107A 邱政維: registered 0→1
+  GESP406 施智閔: registered 7→4
+  ASPT569 陳信助: registered 18→23
+  CSE521 王友群: registered 3→2
+  EE7503 林根煌: registered 0→1
+  MUSI433 黃子珊: registered 2→3, enrolled 18→17, remaining 32→33
+  GEAE2610 吳偉寧: registered 12→20
+  TA108 康尹貞: registered 2→3
