@@ -1,0 +1,53 @@
+新增 13 個班次
+消失 14 個班次
+選課人數變動 950 個班次
+  IBBA206 陳文鑫: enrolled 34→33, remaining 16→17
+  MEC515 李宗賢,李欣: enrolled 7→5, remaining 43→45
+  TA303 黃資絜: enrolled 44→43, remaining 6→7
+  MAEV422 陳吉紀: registered 11→13
+  MAEV5600 王右仁: enrolled 17→16, remaining 33→34
+  DO614 簡國童: registered 0→1
+  BM201 林晉禾: registered 2→3, enrolled 45→44, remaining 5→6
+  MAPA514 希家玹: registered 3→4
+  GEAE2154 林宜誠: registered 18→17, enrolled 38→34, remaining 12→16
+  MIS526 李捷: enrolled 27→24, remaining 3→6
+  MED126 李昇翰: registered 8→13
+  GEEN117E 莊家雄: enrolled 33→32, remaining 2→3
+  TA521 約書亞沙發兒: registered 2→3, enrolled 8→7, remaining 42→43
+  GEAI2104 王柔惠: registered 7→11
+  GEAE2210 楊婉儀: registered 1→2
+  IBPS503 施柏漳: registered 0→1
+  DFLL224 李祁芳: enrolled 49→48, remaining 1→2
+  CSS171 楊健弘: registered 4→7
+  SBF556 呂桔誠,竹下誠二郎: registered 4→6, enrolled 12→11, remaining 58→59
+  GEAI1983 廖子嫻,陳玟帆: registered 4→5
+  DFLL338 施智閔: registered 10→12
+  FM527 邱敬貿,馬黛: enrolled 29→26, remaining 21→24
+  MAEV150 卓宴琳: enrolled 57→56, remaining 13→14
+  BM506 施欣宜: registered 3→4, enrolled 38→34, remaining 12→16
+  ICE504 黃婉甄: registered 0→1, enrolled 24→23, remaining 26→27
+  MOES557 徐瑞鴻: registered 3→4
+  EE5416 謝耀慶: enrolled 28→26, remaining 22→24
+  IHCM625 余憲忠,莊旺川: registered 2→3
+  GENL0001B 鍾志偉: registered 36→45
+  EE3602B 吳孝純: enrolled 70→69, remaining 0→1
+  MBR227 劉商隱,水晶: enrolled 37→35, remaining 13→15
+  FM104 卓建宏: registered 11→13
+  GEAI1592 塗子萱,張水鍇: registered 2→4, enrolled 30→28, remaining 0→2
+  GENL0001L 陳明聖: registered 9→12, enrolled 45→44, remaining 0→1
+  GEAI1134 鄭夙雯: registered 4→5, enrolled 16→18, remaining -1→-3
+  AME549 羅毅恩: registered 2→3
+  EO1003A 翁鵬絜: enrolled 26→25, remaining 24→25
+  MOES107 郭哲男: registered 3→5
+  BM508 黃俊智: registered 19→24, enrolled 47→45, remaining 3→5
+  EE1700 李宗哲: registered 2→3, enrolled 39→38, remaining 31→32
+  GENL0001E 何重誼: registered 6→10, enrolled 43→42, remaining 2→3
+  GEAE2406 于松桓,李佶珉,黃仲平: registered 11→12
+  PHYS501 林德鴻: registered 3→2, enrolled 40→39, remaining 10→11
+  EE1301A 魏家博: registered 2→3, enrolled 32→31, remaining 38→39
+  GENL0001J 陳明聖: registered 5→7
+  DFLL430 李祁芳: registered 2→3
+  CSE510 楊昌彪: enrolled 60→57, remaining 20→23
+  GEAE2451 許智超: registered 13→17, enrolled 48→46, remaining 2→4
+  MOES508 曼哈迪: enrolled 13→11, remaining 19→21
+  CSE505 李淑敏: enrolled 57→54, remaining 13→16
