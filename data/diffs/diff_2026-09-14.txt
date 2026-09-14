@@ -1,0 +1,53 @@
+新增 6 個班次
+消失 5 個班次
+選課人數變動 1617 個班次
+  ASPT530A 郭紹偉: registered 7→1, enrolled 26→32, remaining 6→0
+  IMPE5014 艾慕明: registered 1→0, enrolled 1→2, remaining 49→48
+  EE2006B 莊豐任,謝耀慶: registered 1→0, enrolled 57→58, remaining 1→0
+  MOES445 王致傑: registered 1→0, enrolled 0→1, remaining 50→49
+  MATH585 王彩蓮: registered 1→0, enrolled 3→4, remaining 17→16
+  BM315 王萬成: registered 2→0, enrolled 9→11, remaining 41→39
+  IMST543 李啟偉: registered 2→0, enrolled 33→35, remaining 12→10
+  UT514 陳信宏: registered 1→0, enrolled 7→8, remaining 43→42
+  IOE512 紀博善: registered 1→0, enrolled 3→4, remaining 47→46
+  DO206 托星豪: registered 4→0, enrolled 13→17, remaining 37→33
+  EE5808 曾乙立: registered 1→0, enrolled 13→14, remaining 37→36
+  STP110 張至慶: registered 2→0, enrolled 10→12, remaining 40→38
+  ISM563 邱奎霖: registered 1→0, enrolled 6→7, remaining 3→2
+  CHEM579 謝建台: registered 4→0, enrolled 38→42, remaining 12→8
+  GESP408 傅安德: registered 30→28, enrolled 48→50, remaining 2→0
+  LIBA143 溫嘉榮: registered 5→0, enrolled 3→8, remaining 27→22
+  SOC201 戴昀: registered 1→0, enrolled 47→48, remaining 3→2
+  MA619 張水鍇: registered 1→0, enrolled 4→5, remaining 46→45
+  IOE993 張至慶: registered 3→0, enrolled 19→22, remaining 11→8
+  CSE511 楊昌彪: registered 2→0, enrolled 8→10, remaining 42→40
+  GEAI1126 許家裕: registered 3→1, enrolled 17→19, remaining 3→1
+  BM217 林晉禾: registered 10→7, enrolled 47→50, remaining 3→0
+  LIBA119 杜佳倫: registered 6→1, enrolled 7→12, remaining 23→18
+  SOC352 林傳凱,王梅香: registered 2→0, enrolled 9→11, remaining 41→39
+  MUSI650 黃子珊: registered 1→0, enrolled 0→1, remaining 50→49
+  BIOS810 李昆澤: registered 1→0, enrolled 0→1, remaining 50→49
+  STP121 宋呈澔,林靜慧: registered 1→0, enrolled 7→8, remaining 18→17
+  CS908 林豪傑: enrolled 0→4, remaining 50→46
+  GEAE2633 林裕䕒: registered 25→18, enrolled 43→50, remaining 7→0
+  IOE650 張至慶: registered 1→0, enrolled 1→2, remaining 29→28
+  MBR410 呂明毅,張桂祥,彭紹宏,方力行,李宗賢,郭富雯,韓僑權: registered 1→0, enrolled 20→21, remaining 30→29
+  PH60001 莊豐權: registered 2→0, enrolled 4→6, remaining 46→44
+  IBMS628 張玉泉: registered 1→0, enrolled 1→2, remaining 19→18
+  MED145 鄭雅勻: registered 9→4, enrolled 1→6, remaining 19→14
+  MUSI367 陳鈺雯: registered 4→0, enrolled 11→15, remaining 39→35
+  MEC508 李宗賢,李欣: registered 1→0, enrolled 2→3, remaining 18→17
+  SOC263 楊靜利: registered 6→2, enrolled 31→35, remaining 19→15
+  HRMA911 葉致微: registered 2→0, enrolled 13→15, remaining 17→15
+  CSE315 蔡崇煒: registered 2→1, enrolled 59→60, remaining 1→0
+  CHEM556 廖志中: registered 5→0, enrolled 27→32, remaining 23→18
+  CS924 葉淑娟: enrolled 0→11, remaining 50→39
+  CSE563 徐瑞壕: registered 4→0, enrolled 8→12, remaining 42→38
+  CHEM405 廖志中: registered 4→3, enrolled 44→45, remaining 6→5
+  EE5410 蘇健翔: registered 1→0, enrolled 3→4, remaining 47→46
+  GEAE2403 蔡俊彥: registered 12→9, enrolled 52→55, remaining 3→0
+  GEPE203 林宗正: registered 6→4, enrolled 25→27, remaining 0→-2
+  FM201 唐俊華: registered 9→2, enrolled 51→58, remaining 9→2
+  GEAI1586 高世明: registered 2→0, enrolled 0→2, remaining 20→18
+  FM551 封之遠: registered 15→0, enrolled 31→46, remaining 19→4
+  GEPE102M 羅郁平: registered 10→6, enrolled 51→55, remaining 4→0
