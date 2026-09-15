@@ -1,0 +1,20 @@
+新增 4 個班次
+消失 83 個班次
+選課人數變動 17 個班次
+  MEC501 李宗賢,李欣: enrolled 7→6, remaining 23→24
+  IBPS501 施柏漳,賴至人: enrolled 9→8, remaining 41→42
+  TA494 梁翠梅: registered 3→1, enrolled 16→18, remaining 34→32
+  GEPE215A 楊智翔: registered 3→2, enrolled 25→26, remaining 0→-1
+  CSE110 徐瑞壕: enrolled 84→85, remaining 6→5
+  NURS104 馮雅群: enrolled 47→46, remaining 3→4
+  TA108 康尹貞: registered 1→0, enrolled 50→51, remaining 0→-1
+  CSE270 林俊宏: enrolled 60→61, remaining 0→-1
+  CL342 杜佳倫: registered 3→2, enrolled 47→48, remaining 3→2
+  NURS101 郭素娥: enrolled 48→47, remaining 2→3
+  NURS102 柯翠玲,甘祐瑜: enrolled 47→46, remaining 3→4
+  MUSI314 鄭夙雯: registered 2→1, enrolled 26→27, remaining 24→23
+  CSE583 蕭勝夫: registered 2→0, enrolled 56→59, remaining -6→-9
+  PIS2008 張淑美: registered 2→1
+  NURS103 柯瓊媛: enrolled 47→46, remaining 3→4
+  MEC514 李宗賢,李欣: enrolled 12→11, remaining 18→19
+  BM681 王致遠: registered 1→0, enrolled 33→34, remaining 17→16
