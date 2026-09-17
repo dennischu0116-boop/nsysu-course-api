@@ -1,0 +1,53 @@
+新增 50 個班次
+消失 4 個班次
+選課人數變動 301 個班次
+  CSE520 王友群: enrolled 60→61, remaining 0→-1
+  DFLL633 陳福仁: registered 0→1, enrolled 6→5, remaining 44→45
+  CAPS931 陳虹宇: enrolled 3→4, remaining 47→46
+  GEAI1070 古錦松: registered 7→8, enrolled 50→49, remaining 0→1
+  BIOS701 傅瀚儀,汪海晏,黃明德: registered 0→1, enrolled 3→2, remaining 47→48
+  CSE526 陳嘉平: enrolled 22→21, remaining 28→29
+  MIS559 劉賓陽: enrolled 23→26, remaining 27→24
+  MOES107 郭哲男: enrolled 60→61, remaining 0→-1
+  PHYS207 盧怡穎: enrolled 28→29, remaining 2→1
+  ASPT567A 黃仲平: enrolled 28→27, remaining 4→5
+  CSE563 徐瑞壕: registered 0→1, enrolled 12→11, remaining 38→39
+  CSE521 王友群: registered 0→1, enrolled 19→18, remaining 31→32
+  IHCM635 李清潭: enrolled 2→4, remaining 48→46
+  MOS501 李廣輝: enrolled 13→12, remaining 57→58
+  GEAE2613 劉叔秋,張水鍇,張詠斌,李育諭: enrolled 80→83, remaining 0→-3
+  TA474 蔡詔羽: enrolled 8→9, remaining 42→41
+  IICD520 施信毓: registered 0→2, enrolled 7→4, remaining 43→46
+  GEAIE610 王品惠: enrolled 49→50, remaining 1→0
+  MEME562 邱源成: registered 19→13, enrolled 50→57, remaining 0→-7
+  EO5272 林煒淳: registered 7→6, enrolled 50→51, remaining 0→-1
+  AI10001 AI聯盟教師: registered 0→1, enrolled 7→6, remaining 3→4
+  FM521 佘博文: registered 6→4, enrolled 50→53, remaining 0→-3
+  EE5111 馬誠佑: registered 0→1, enrolled 53→52, remaining 7→8
+  GEEN116 曾彩楣: registered 27→25, enrolled 35→38, remaining 0→-3
+  ASPT579 林勇志: enrolled 32→31, remaining 0→1
+  IOE783 馮雅群: enrolled 6→7, remaining 14→13
+  GEAE2610 吳偉寧: registered 23→22, enrolled 73→77, remaining 0→-4
+  IMST538 林遠彬: enrolled 13→14, remaining 17→16
+  MATH201 陳志偉: enrolled 19→21, remaining 31→29
+  MRSC114 林梅芳,王興麟,陳冠宇: enrolled 98→99, remaining 52→51
+  PHY102A 陳龍銘: enrolled 57→58, remaining -7→-8
+  BM203A 黃明新: registered 9→8, enrolled 57→58, remaining 0→-1
+  EE5704 曾乙立: enrolled 4→5, remaining 46→45
+  GEPE102 羅凱暘: enrolled 55→56, remaining 0→-1
+  GEAE2238 王俞蓉: enrolled 50→55, remaining 0→-5
+  GEAE2155 楊妮蓉: enrolled 50→53, remaining 0→-3
+  MIS583 楊惠芳: registered 1→3, enrolled 34→32, remaining 16→18
+  MEME641 李明展: registered 1→0, enrolled 8→9, remaining 42→41
+  ISM560 洪勇智: registered 0→1, enrolled 9→13, remaining 0→-4
+  GEAI1653 陳孟瑋: enrolled 29→30, remaining 1→0
+  PAM988A 吳偉寧: registered 0→1, enrolled 9→8, remaining 41→42
+  CS905 王致遠: enrolled 11→10, remaining 39→40
+  EE5232 蔡舜宏: enrolled 5→4, remaining 45→46
+  GEAIE705 陳美淑: enrolled 38→37, remaining 12→13
+  TA538 杜思慧: enrolled 7→14, remaining 43→36
+  GEAE2348 希家玹: enrolled 50→51, remaining 0→-1
+  MEME537 吳美玲: enrolled 19→18, remaining 31→32
+  HRM977 鄭怡玲: enrolled 15→14, remaining 0→1
+  PE201 李明軒: registered 1→0, enrolled 67→68, remaining 18→17
+  BM204 施欣宜: enrolled 53→52, remaining 7→8
