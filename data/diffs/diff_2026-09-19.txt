@@ -1,0 +1,53 @@
+新增 2 個班次
+消失 2 個班次
+選課人數變動 462 個班次
+  GEAIE705 陳美淑: enrolled 38→39, remaining 12→11
+  ASPT569 陳信助: registered 12→9, enrolled 43→46, remaining 2→-1
+  IPS540 方志恒: enrolled 16→17, remaining 4→3
+  EE2600B 曾乙立: registered 2→1, enrolled 74→75, remaining -4→-5
+  GEAE2209 陳立驤: enrolled 55→58, remaining -5→-8
+  GEAE2238 王俞蓉: enrolled 64→65, remaining -14→-15
+  EE2305 周孜燦: registered 3→2, enrolled 21→23, remaining 29→27
+  NURS120 郭素娥: enrolled 22→23, remaining 0→-1
+  EE3408 林省揚: enrolled 23→24, remaining 27→26
+  PHYS309 錢德勒: enrolled 2→3, remaining 48→47
+  BIOS102 蔡明利: enrolled 46→48, remaining 4→2
+  PE354 張光亮: enrolled 49→48, remaining 1→2
+  SOC205 楊又欣: registered 5→4, enrolled 50→51, remaining 0→-1
+  SOC105 李宛儒: registered 1→0, enrolled 50→51, remaining 0→-1
+  GEPE202 林國欽,羅凱暘,蔡鋒樺,黃義博: enrolled 58→59, remaining 42→41
+  GESL415 郭瑞坤: registered 2→3, enrolled 41→40, remaining 4→5
+  MEME204B 程啓正: enrolled 60→63, remaining -10→-13
+  CSE430 張玉盈: registered 8→7, enrolled 53→54, remaining -3→-4
+  ISM579 林勇志: enrolled 7→6, remaining -2→-1
+  IBBA210 馬威爾: enrolled 45→46, remaining 5→4
+  MOES512 杭大任: enrolled 21→20, remaining -1→0
+  PE204 童永年: registered 4→2, enrolled 55→57, remaining 0→-2
+  CSE220 鄺獻榮: registered 2→1, enrolled 62→65, remaining -2→-5
+  MED145 鄭雅勻: enrolled 4→5, remaining 16→15
+  PE109 張其祿: registered 14→9, enrolled 49→56, remaining 1→-6
+  CSS134 李予綱: enrolled 20→22, remaining 0→-2
+  DFLL501 黃心雅: enrolled 9→8, remaining 41→42
+  CL248 吳孟謙: registered 2→3, enrolled 34→33, remaining 1→2
+  TA571 吳怡瑱: enrolled 6→7, remaining 44→43
+  DO131 張瑜峻: enrolled 41→44, remaining -1→-4
+  GEPE228 林國欽: registered 1→3, enrolled 40→37, remaining 10→13
+  GEAI2112 陳麗雅: registered 3→2, enrolled 27→28, remaining -1→-2
+  GEPE215I 潘泰安: registered 4→3, enrolled 25→27, remaining 0→-2
+  GEAE2529 AI聯盟教師: enrolled 28→26, remaining 17→19
+  PHY108C 吳紘丞: enrolled 47→49, remaining 23→21
+  MEME336 何應勤: enrolled 51→52, remaining -1→-2
+  GEAE2532 王美卿: enrolled 54→57, remaining -4→-7
+  PIS2008 張淑美: enrolled 24→25, remaining 26→25
+  GEAE2515 許晉銓: registered 28→24, enrolled 85→91, remaining 0→-6
+  EO5001 洪裕涵: enrolled 93→92, remaining 7→8
+  MBR434 李益銘: registered 1→0, enrolled 8→9, remaining 42→41
+  GEPE102U 洪維辰: registered 1→2
+  MEME5109 郭清德: registered 8→6, enrolled 69→71, remaining -19→-21
+  EE2100B 陳昶孝: registered 8→3, enrolled 75→84, remaining 0→-9
+  MIS302 陳嘉玫: enrolled 9→8, remaining 41→42
+  MOES430 王映樵: enrolled 26→25, remaining 34→35
+  FM201 唐俊華: registered 2→1, enrolled 58→60, remaining 2→0
+  CHEM630 謝建台,謝淑貞: enrolled 60→61, remaining 0→-1
+  UT543 周佑誠: enrolled 8→7, remaining 42→43
+  GEPE223 莊智淵: registered 1→2, enrolled 40→36, remaining 10→14
