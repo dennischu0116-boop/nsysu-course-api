@@ -1,0 +1,53 @@
+新增 1 個班次
+消失 1 個班次
+選課人數變動 413 個班次
+  GEPE102R 蔡宗晏: registered 12→10, enrolled 54→60, remaining 1→-5
+  GEAE2529 AI聯盟教師: enrolled 26→25, remaining 19→20
+  GEAI1978 余靈珊,王文宏: registered 17→14, enrolled 75→84, remaining 0→-9
+  GESL356 葉博弘: registered 12→9, enrolled 40→44, remaining 0→-4
+  PAM905 謝政勳: enrolled 17→15, remaining 33→35
+  GEAIE802 林毓凱: registered 5→4
+  GEAIE700 紀博善: enrolled 49→51, remaining 1→-1
+  MBR342 李澤民: registered 1→2, enrolled 50→49, remaining 0→1
+  GEAI1214 李哲欣: registered 2→1, enrolled 10→11, remaining 0→-1
+  CL121 涂書瑋: registered 3→2, enrolled 23→25, remaining 27→25
+  PHY102A 陳龍銘: enrolled 60→59, remaining -10→-9
+  CSE123 柯正雯: registered 1→0, enrolled 69→71, remaining -9→-11
+  DSF509 王昭文,郭志文: enrolled 47→46, remaining 23→24
+  GEPE102H 李佳倫: registered 22→19, enrolled 57→60, remaining -2→-5
+  MEME327 李明展: registered 7→5, enrolled 64→68, remaining -14→-18
+  BM115A 卓建宏: enrolled 42→41, remaining 8→9
+  GEAI1412 施欣宜: registered 3→2, enrolled 21→22, remaining -1→-2
+  GEAE2613 劉叔秋,張水鍇,張詠斌,李育諭: registered 15→12, enrolled 87→94, remaining -7→-14
+  GEAE2301 江政寬: registered 16→15, enrolled 86→91, remaining -6→-11
+  GEAI1875 林宜誠: enrolled 4→5, remaining 1→0
+  CSE110 徐瑞壕: enrolled 85→87, remaining 5→3
+  PE207 陳若蘭: enrolled 31→32, remaining 19→18
+  TA284A 蔡詔羽: enrolled 19→20, remaining 1→0
+  IHCM635 李清潭: enrolled 4→5, remaining 46→45
+  GEPE215F 蔡鋒樺: enrolled 27→29, remaining -2→-4
+  EE5100A 謝耀慶: enrolled 150→149, remaining 0→1
+  GEPE215H 蔡睿洋: enrolled 28→30, remaining -3→-5
+  GEPE205 林國欽: enrolled 52→51, remaining -2→-1
+  DIS1002 宋世祥: enrolled 37→38, remaining 3→2
+  DFLL220 歐淑珍: enrolled 48→46, remaining 2→4
+  GEAIE705 陳美淑: enrolled 39→41, remaining 11→9
+  MOES103 張元賓: enrolled 31→30, remaining -1→0
+  BIOS101 蔡明利: enrolled 38→39, remaining 12→11
+  GEAI1946 唐逸文: registered 8→6, enrolled 30→35, remaining 0→-5
+  GESL385 林玉華: registered 3→1, enrolled 30→37, remaining 0→-7
+  GEAI1592 塗子萱,張水鍇: enrolled 30→31, remaining 0→-1
+  GEEN116B 曾千紋: enrolled 38→39, remaining -3→-4
+  FM303 王昭文: registered 7→6, enrolled 65→67, remaining 0→-2
+  GEAE2445 于欽平: registered 12→11, enrolled 120→133, remaining 0→-13
+  PHYS115 張元賓: registered 2→1, enrolled 28→29, remaining -2→-3
+  TA103A 楊士平: enrolled 17→18, remaining 8→7
+  DFLL238 盧家達: registered 5→4, enrolled 25→26, remaining -5→-6
+  GEAI2102 李優俐: registered 0→1
+  MEME204B 程啓正: enrolled 63→64, remaining -13→-14
+  GEAE2528 AI聯盟教師,莊豐任: registered 12→13, enrolled 49→48, remaining 1→2
+  GEAI1216 陳志偉: enrolled 6→7, remaining 59→58
+  GEAI1439 林晉禾: enrolled 6→5, remaining 4→5
+  GEPE211A 李佳倫: registered 12→10, enrolled 55→57, remaining -5→-7
+  GESL379 古錦松: registered 7→5, enrolled 37→42, remaining -7→-12
+  BIOS101A 梁子輝: enrolled 33→32, remaining 17→18
