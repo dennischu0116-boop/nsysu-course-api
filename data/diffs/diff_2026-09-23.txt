@@ -1,0 +1,26 @@
+消失 35 個班次
+選課人數變動 24 個班次
+  BM507 彭聖翔: registered 7→6, enrolled 87→88, remaining -37→-38
+  CLC201 待聘: enrolled 4→5, remaining 46→45
+  CLC202 待聘: enrolled 11→10, remaining 39→40
+  PHY102D 周雄: enrolled 55→52, remaining 10→13
+  GEAE2209 陳立驤: registered 3→2, enrolled 63→64, remaining -13→-14
+  PHYS115 張元賓: enrolled 29→28, remaining -3→-2
+  PHY108 陳易馨: enrolled 36→35, remaining 34→35
+  BM115 卓建宏: enrolled 49→48, remaining 1→2
+  BM507 彭聖翔: registered 7→6, enrolled 87→88, remaining -37→-38
+  EO1003A 翁鵬絜: enrolled 27→26, remaining 23→24
+  PHYS111 陳美如: enrolled 40→39, remaining 10→11
+  GEAE2215 陳美華: enrolled 65→66, remaining -15→-16
+  MOES102A 翁鵬絜: enrolled 46→44, remaining 4→6
+  MOES107A 邱政維: enrolled 34→32, remaining 26→28
+  GEAI1964 楊仁豪: registered 41→40, enrolled 50→51, remaining -10→-11
+  PHY101 陳易馨: enrolled 36→35, remaining 14→15
+  MOES101A 克里斯那: enrolled 33→31, remaining 17→19
+  EO1004A 林元堯: enrolled 35→34, remaining 15→16
+  PHY108B 洪昇廷: enrolled 48→45, remaining 22→25
+  GEAE2632 劉叔秋,張詠斌: registered 27→26, enrolled 181→182, remaining -31→-32
+  BM101 王萬成: enrolled 71→70, remaining -6→-5
+  PHYS113 王家蓁: enrolled 36→35, remaining 14→15
+  BM105 林晉禾: enrolled 58→57, remaining -8→-7
+  MOES103A 楊崇鑫: enrolled 29→27, remaining 1→3
