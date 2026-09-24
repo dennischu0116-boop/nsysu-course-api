@@ -1,0 +1,30 @@
+新增 1 個班次
+消失 1 個班次
+選課人數變動 27 個班次
+  EE3602B 吳孝純: registered 1→2, enrolled 70→69, remaining 0→1
+  BM413 蔡宗霖: enrolled 53→54, remaining -3→-4
+  PHYS701 莊豐權: enrolled 11→10, remaining 39→40
+  GEEN117C 陳美淑: enrolled 30→29, remaining 5→6
+  CLC202 待聘: enrolled 10→9, remaining 40→41
+  TA103 杜思慧: registered 1→0, enrolled 25→26, remaining 0→-1
+  GEAI2102 李優俐: enrolled 14→13, remaining 16→17
+  PE101 張光亮: enrolled 55→54, remaining 0→1
+  PE110 王俊傑: enrolled 63→62, remaining -13→-12
+  IPS933 林婉萍: enrolled 15→16, remaining 35→34
+  GEPE102I 蔡鋒樺: enrolled 67→68, remaining -12→-13
+  EE3008B 薛雅馨,陳有德: enrolled 58→57, remaining -2→-1
+  EE2100B 陳昶孝: registered 0→1, enrolled 88→87, remaining -13→-12
+  CLC201 待聘: enrolled 5→6, remaining 45→44
+  EE2600B 曾乙立: enrolled 75→74, remaining -5→-4
+  FM915 翁培師: enrolled 12→11, remaining 38→39
+  GEAI1425 黃明新: registered 17→18, enrolled 10→9, remaining 0→1
+  EE4318 葉小小: registered 0→1, enrolled 49→48, remaining 1→2
+  EE4706 莊子肇: registered 1→0, enrolled 19→20, remaining 31→30
+  PHYS503 史丹哲夫: enrolled 37→36, remaining 13→14
+  PE109 張其祿: enrolled 57→56, remaining -7→-6
+  EE2500B 沈昭元: registered 3→4, enrolled 80→79, remaining 0→1
+  GEPE102B 羅凱暘: enrolled 61→60, remaining -6→-5
+  EE2403 哈菲茲: registered 0→1, enrolled 75→74, remaining 25→26
+  GEAE2528 AI聯盟教師,莊豐任: registered 13→14, enrolled 48→47, remaining 2→3
+  STP174 謝百淇: enrolled 18→19, remaining 2→1
+  EE3202B 康斯証: registered 0→1, enrolled 58→57, remaining 17→18
