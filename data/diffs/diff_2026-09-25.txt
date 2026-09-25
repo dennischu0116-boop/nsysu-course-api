@@ -1,0 +1,7 @@
+選課人數變動 6 個班次
+  EE5100 謝耀慶: enrolled 130→129, remaining 20→21
+  EE5416 謝耀慶: enrolled 28→27, remaining 22→23
+  GEAI1908 張玉泉,李佶珉,鄭光宏: registered 5→6, enrolled 76→75, remaining 19→20
+  EE5407 林省揚: enrolled 17→16, remaining 33→34
+  EE5434 哈菲茲: enrolled 23→22, remaining 27→28
+  EE5418 謝耀慶: enrolled 11→10, remaining 39→40
