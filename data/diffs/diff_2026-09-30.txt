@@ -1,0 +1,20 @@
+選課人數變動 19 個班次
+  IBBA202 雷英瑞: registered 1→0, enrolled 44→45, remaining 6→5
+  UT633 周佑誠,謝孟璋,邱永盛,陳信宏,魏瑞昌: enrolled 5→4, remaining 45→46
+  UT543 周佑誠: enrolled 7→6, remaining 43→44
+  IBMS501 張玉泉,戴明泓,楊仁豪,許晉銓,鄭光宏: enrolled 9→8, remaining 11→12
+  UT543 周佑誠: enrolled 7→6, remaining 43→44
+  UT520 魏瑞昌: enrolled 8→7, remaining 42→43
+  PE132 辛翠玲: registered 3→2, enrolled 32→33, remaining -2→-3
+  STP174 謝百淇: registered 1→0, enrolled 19→20, remaining 1→0
+  CL342 杜佳倫: registered 1→0, enrolled 49→50, remaining 1→0
+  UT514 陳信宏: enrolled 8→7, remaining 42→43
+  IBMS535 戴明泓: enrolled 9→8, remaining 16→17
+  IBMS503 許晉銓: enrolled 9→8, remaining 11→12
+  IBMS509 鄭光宏: enrolled 9→8, remaining 11→12
+  IBBA355 安大衛: registered 1→0, enrolled 26→27, remaining 24→23
+  CL121 涂書瑋: registered 2→1, enrolled 25→26, remaining 25→24
+  MUSI314 鄭夙雯: enrolled 28→29, remaining 22→21
+  UT502 周佑誠: enrolled 8→7, remaining 42→43
+  UT514 陳信宏: enrolled 8→7, remaining 42→43
+  UT530 周佑誠: enrolled 8→7, remaining 42→43
