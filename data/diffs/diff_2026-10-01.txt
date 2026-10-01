@@ -1,0 +1,8 @@
+新增 4 個班次
+消失 4 個班次
+選課人數變動 5 個班次
+  ASPT596 林勇志,王志逢,蔡潤波,陳信助,黃仲平: enrolled 76→75, remaining 9→10
+  ASPT586 林挺生: enrolled 72→71, remaining 13→14
+  AME502 魏君穎: enrolled 16→15, remaining 34→35
+  ASPT585 林裕修: enrolled 72→71, remaining 13→14
+  AME557 陳尚盈: registered 0→1, enrolled 31→30, remaining 19→20
