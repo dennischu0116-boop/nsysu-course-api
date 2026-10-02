@@ -1,0 +1,6 @@
+選課人數變動 5 個班次
+  CSE430 張玉盈: enrolled 55→56, remaining -5→-6
+  GEAI1132 沈尚玉: enrolled 5→4, remaining 0→1
+  DFLL222 沈尚玉: enrolled 30→31, remaining 20→19
+  MAEV203 曾以帆: enrolled 47→48, remaining 3→2
+  PAM620 蔡錦昌: enrolled 23→22, remaining 27→28
