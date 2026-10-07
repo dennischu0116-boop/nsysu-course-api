@@ -1,0 +1,14 @@
+選課人數變動 13 個班次
+  MATH565 許柏翰: enrolled 6→5, remaining 14→15
+  GCMA001 吳嘉倫,戴昀,陳美華: enrolled 6→5, remaining 44→45
+  SOC901 李宛儒,萬毓澤,邱花妹: enrolled 8→7, remaining 42→43
+  GCMA002 吳嘉倫,萬毓澤: enrolled 6→5, remaining 44→45
+  SOC903 李馨慈,王宏仁: enrolled 8→7, remaining 42→43
+  GCMA102 吳嘉倫: enrolled 6→5, remaining 44→45
+  SOC905 李馨慈: enrolled 17→16, remaining 33→34
+  GCMA004 賴慧玲,邱花妹: registered 0→1, enrolled 4→3, remaining 46→47
+  IPS951 林婉萍: enrolled 17→16, remaining 33→34
+  GEAI1126 許家裕: enrolled 19→0, remaining 1→20
+  MATH532 李宗錂: enrolled 19→18, remaining 1→2
+  GCMA101 吳嘉倫,萬毓澤,邱花妹,陳美華: enrolled 6→5, remaining 44→45
+  GCMA003 劉奇峯,方志恒: enrolled 4→3, remaining 46→47
