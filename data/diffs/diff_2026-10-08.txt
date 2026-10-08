@@ -1,0 +1,30 @@
+新增 19 個班次
+消失 21 個班次
+選課人數變動 27 個班次
+  IGPE503 艾玲: enrolled 4→3, remaining 16→17
+  PHY102E 岩本祥: enrolled 53→52, remaining -3→-2
+  EE2305 周孜燦: enrolled 23→22, remaining 27→28
+  GEAE2156 盧莉茹: enrolled 97→96, remaining -17→-16
+  CSE110 徐瑞壕: enrolled 87→86, remaining 3→4
+  MIS103 黃靖雯: enrolled 52→50, remaining -2→0
+  CSE220 鄺獻榮: enrolled 65→64, remaining -5→-4
+  IGPE540 張宇慧: enrolled 6→5, remaining 14→15
+  EE1003B 陳美如: enrolled 58→57, remaining 12→13
+  GEAI1449 王致遠: enrolled 90→91, remaining 0→-1
+  CSE391 克拉迪: enrolled 60→59, remaining 0→1
+  EE1301B 魏家博: enrolled 64→63, remaining 6→7
+  GESP412 陳福仁: enrolled 51→50, remaining -1→0
+  CSE210 柯拉飛: enrolled 65→64, remaining 10→11
+  MIS101 羅珮綺: enrolled 47→45, remaining 3→5
+  EE1700B 王朝欽: enrolled 67→66, remaining 13→14
+  MIS108 楊宗文: enrolled 48→46, remaining 2→4
+  CSE123 柯正雯: enrolled 71→70, remaining -11→-10
+  IGPE707 紀博善: registered 0→1, enrolled 4→3, remaining 16→17
+  GEAI1126 許家裕: enrolled 0→19, remaining 20→1
+  EE1300B 翁愷貽: enrolled 64→63, remaining 11→12
+  CSE124 柯正雯: enrolled 83→82, remaining -23→-22
+  MIS104 蕭哲芬: enrolled 50→48, remaining 0→2
+  CSE104 程正傑: enrolled 60→59, remaining 0→1
+  CHEM701 林渝亞: enrolled 7→6, remaining 43→44
+  CSE221 鄺獻榮: enrolled 61→60, remaining -1→0
+  CSE706 陳嘉平: enrolled 4→3, remaining 46→47
