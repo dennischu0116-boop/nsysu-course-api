@@ -1,0 +1,37 @@
+新增 8 個班次
+消失 8 個班次
+選課人數變動 34 個班次
+  GEAE2238 王俞蓉: enrolled 70→69, remaining -20→-19
+  CAPS747 郭育仁: enrolled 5→4, remaining 45→46
+  MIS590 羅珮綺: enrolled 50→49, remaining 0→1
+  NURS104 馮雅群: enrolled 42→41, remaining 8→9
+  GEAI1978 余靈珊,王文宏: enrolled 84→83, remaining -9→-8
+  NURS103 柯瓊媛: enrolled 42→41, remaining 8→9
+  MUSI361 林鴻君: enrolled 14→13, remaining 36→37
+  CAPS750 黎寶文: enrolled 5→4, remaining 45→46
+  MUSI314 鄭夙雯: enrolled 29→28, remaining 21→22
+  ECON502 李慶男: enrolled 28→27, remaining 22→23
+  MUSI232 陳以軒: enrolled 38→37, remaining 12→13
+  MAPA541 林文程: registered 0→1, enrolled 15→14, remaining 35→36
+  CAPS551 張顯超: enrolled 24→23, remaining 26→27
+  MIS590 羅珮綺: enrolled 50→49, remaining 0→1
+  MIS572 康藝晃: enrolled 54→53, remaining -4→-3
+  MAPA501 希家玹: enrolled 14→13, remaining 36→37
+  MUSI148 呂承祐,林鴻君,馬曉珮: enrolled 10→9, remaining 40→41
+  NURS101 郭素娥: enrolled 43→42, remaining 7→8
+  GEAI2104 王柔惠: enrolled 22→21, remaining -2→-1
+  MUSI218 郭瓊嬌: enrolled 46→45, remaining 4→5
+  MIS512 黃三益: enrolled 67→66, remaining -17→-16
+  ECON510 許嘉麟: enrolled 26→25, remaining 24→25
+  NURS102 柯翠玲,甘祐瑜: enrolled 42→41, remaining 8→9
+  NURS119 熊乃歡: enrolled 7→6, remaining 18→19
+  MAPA537 劉奇峯: registered 0→1, enrolled 17→16, remaining 33→34
+  ECON501 童永年: enrolled 29→28, remaining 21→22
+  MUSI101 楊智欽: registered 0→1, enrolled 54→53, remaining 16→17
+  ECON503 陳冠任: enrolled 28→27, remaining 22→23
+  MIS501 徐士傑: enrolled 49→48, remaining 1→2
+  GEPE102K 蔡宗晏: enrolled 57→56, remaining -2→-1
+  CAPS541 劉奇峯: registered 0→1, enrolled 8→7, remaining 42→43
+  MIS512 黃三益: enrolled 67→66, remaining -17→-16
+  GEAE2204 戴遠雄: enrolled 50→49, remaining 0→1
+  MUSI210 黃子珊: enrolled 42→41, remaining 8→9
