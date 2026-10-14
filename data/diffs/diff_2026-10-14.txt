@@ -1,0 +1,15 @@
+新增 13 個班次
+消失 13 個班次
+選課人數變動 12 個班次
+  DIS1101 夏晧清: enrolled 14→13, remaining 6→7
+  GEEN004A 曾彩楣: enrolled 35→34, remaining 0→1
+  GEPE102U 洪維辰: enrolled 50→49, remaining 5→6
+  CL103 黃羽璿: enrolled 44→43, remaining 11→12
+  BIOS501 傅瀚儀,汪海晏,黃明德: enrolled 10→9, remaining 40→41
+  CL105 莫加南: enrolled 46→45, remaining 4→5
+  CL454 涂書瑋,黃資婷: enrolled 47→46, remaining 3→4
+  BIOS531 李哲欣: enrolled 5→4, remaining 45→46
+  CL267 黃羽璿: enrolled 35→34, remaining 15→16
+  GEAE2207 游淙祺: enrolled 49→48, remaining 1→2
+  CL248 吳孟謙: enrolled 33→32, remaining 2→3
+  BIOS510 高資棟: enrolled 5→4, remaining 45→46
