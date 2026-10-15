@@ -1,0 +1,7 @@
+新增 13 個班次
+消失 13 個班次
+選課人數變動 4 個班次
+  DFLL610 李佳容: enrolled 10→9, remaining 40→41
+  TA264 楊馨媛: enrolled 27→28, remaining 23→22
+  DFLL633 陳福仁: enrolled 5→4, remaining 45→46
+  DFLL501 黃心雅: enrolled 8→7, remaining 42→43
