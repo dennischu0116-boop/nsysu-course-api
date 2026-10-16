@@ -1,0 +1,9 @@
+選課人數變動 8 個班次
+  EO5002 王耀霆: registered 1→2, enrolled 13→12, remaining 37→38
+  EO5254 李炫錫: registered 0→1, enrolled 16→15, remaining 34→35
+  BM687 盧憶: enrolled 9→8, remaining 41→42
+  BM601 蔡宗霖: enrolled 67→66, remaining -17→-16
+  BM681 王致遠: enrolled 34→33, remaining 16→17
+  BM501 林杏娥: enrolled 55→54, remaining -5→-4
+  EO5001 洪裕涵: registered 0→1, enrolled 92→91, remaining 8→9
+  EO5071 邱逸仁: registered 0→1, enrolled 29→28, remaining 21→22
