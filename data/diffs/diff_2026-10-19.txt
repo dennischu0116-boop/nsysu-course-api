@@ -1,0 +1,9 @@
+選課人數變動 8 個班次
+  PAM501 彭渰雯: enrolled 17→16, remaining 33→34
+  PAM587 蔡錦昌: enrolled 9→8, remaining 41→42
+  DCEM701 楊仁豪: enrolled 12→11, remaining 38→39
+  PAM505 吳偉寧: enrolled 16→15, remaining 34→35
+  PAM590 謝政勳: enrolled 14→13, remaining 36→37
+  DCEM705 李佶珉,李昇翰,楊仁豪,簡志彦: enrolled 11→10, remaining 39→40
+  PAM581 張瓊婷: enrolled 4→3, remaining 46→47
+  PAM542 崔可玫: enrolled 10→9, remaining 40→41
