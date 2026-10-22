@@ -1,0 +1,6 @@
+選課人數變動 5 個班次
+  FM902 陳俐聿: enrolled 32→31, remaining 18→19
+  FM904 廖源星: enrolled 33→32, remaining 17→18
+  CM507 王致遠,謝慧賢,鄭安授,陳世哲: enrolled 200→199, remaining 0→1
+  CM507 王致遠,謝慧賢,鄭安授,陳世哲: enrolled 200→199, remaining 0→1
+  FM903 羅勝議: enrolled 34→33, remaining 16→17
