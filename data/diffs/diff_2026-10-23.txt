@@ -1,0 +1,7 @@
+選課人數變動 6 個班次
+  BM711 彭聖翔: enrolled 4→3, remaining 46→47
+  BM736 張純端: enrolled 7→6, remaining 43→44
+  BM819 黃鋒樟: enrolled 6→5, remaining 44→45
+  CM511 王致遠,王豫萱,鄭安授: enrolled 18→17, remaining 42→43
+  BM705 佘健源: enrolled 7→6, remaining 43→44
+  CM511 王致遠,王豫萱,鄭安授: enrolled 18→17, remaining 42→43
