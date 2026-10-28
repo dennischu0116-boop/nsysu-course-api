@@ -1,0 +1,13 @@
+新增 23 個班次
+消失 23 個班次
+選課人數變動 10 個班次
+  MBR519 水晶: enrolled 12→11, remaining 38→39
+  MBR519 水晶: enrolled 12→11, remaining 38→39
+  HRM540 葉致微: enrolled 46→45, remaining -6→-5
+  IOE584 謝百淇: enrolled 1→0, remaining 19→20
+  DO725 張瑜峻: registered 1→2, enrolled 6→5, remaining 44→45
+  ICM560 譚躍: enrolled 26→25, remaining 24→25
+  MEC514 李宗賢,李欣: enrolled 11→10, remaining 19→20
+  DO725 張瑜峻: registered 1→2, enrolled 6→5, remaining 44→45
+  CLC101 待聘: enrolled 106→105, remaining -56→-55
+  HRM659 何佳澔: registered 3→4, enrolled 32→30, remaining 18→20
