@@ -1,0 +1,23 @@
+選課人數變動 22 個班次
+  CSE2005 王友群: enrolled 50→49, remaining 0→1
+  SOC905 李馨慈: enrolled 16→15, remaining 34→35
+  CSE3001 蔡崇煒: enrolled 46→45, remaining 4→5
+  CSE3003 張雲南: enrolled 43→42, remaining 7→8
+  IOE540 莊雪華: registered 0→1, enrolled 7→6, remaining 43→44
+  SOC509 李馨慈: registered 0→1, enrolled 5→4, remaining 45→46
+  SOC903 李馨慈,王宏仁: enrolled 7→6, remaining 43→44
+  FM506 邱敬貿: enrolled 48→47, remaining 2→3
+  CSE326 蔡崇煒: enrolled 57→56, remaining -7→-6
+  GEEN117A 溫惠珍: enrolled 33→32, remaining 2→3
+  GEAI1072 阮氏貞: enrolled 52→51, remaining -2→-1
+  GEPE228 林國欽: enrolled 36→35, remaining 14→15
+  IOE554 鄭雯: enrolled 11→10, remaining 19→20
+  IOE513 林靜慧: enrolled 8→7, remaining 22→23
+  FM527 邱敬貿,馬黛: enrolled 35→34, remaining 15→16
+  FM521 佘博文: enrolled 56→55, remaining -6→-5
+  CSE1001 希家史提夫: enrolled 43→42, remaining 7→8
+  SOC501 林傳凱: registered 0→1, enrolled 12→11, remaining 38→39
+  GEAE2207 游淙祺: enrolled 48→47, remaining 2→3
+  FM617 王昭文: registered 1→2, enrolled 49→48, remaining 1→2
+  FM615 蕭珮婕: enrolled 47→46, remaining 3→4
+  SOC901 李宛儒,萬毓澤,邱花妹: enrolled 7→6, remaining 43→44
