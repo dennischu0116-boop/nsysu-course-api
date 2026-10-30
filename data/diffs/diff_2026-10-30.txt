@@ -1,0 +1,9 @@
+選課人數變動 8 個班次
+  GEPE102B 羅凱暘: enrolled 60→59, remaining -5→-4
+  EE1003B 陳美如: enrolled 57→56, remaining 13→14
+  EE1301B 魏家博: enrolled 63→62, remaining 7→8
+  GESL425 佘健源: enrolled 42→41, remaining -2→-1
+  PHY102E 岩本祥: enrolled 52→51, remaining -2→-1
+  EE1300B 翁愷貽: enrolled 63→62, remaining 12→13
+  EE1700B 王朝欽: enrolled 66→65, remaining 14→15
+  GESP412 陳福仁: enrolled 50→49, remaining 0→1
