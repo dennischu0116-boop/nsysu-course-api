@@ -1,0 +1,27 @@
+選課人數變動 26 個班次
+  BMST102 林萱文: enrolled 46→45, remaining 4→5
+  PHY108C 吳紘丞: enrolled 44→43, remaining 26→27
+  MIS590 羅珮綺: enrolled 49→48, remaining 1→2
+  CM507 王致遠,謝慧賢,鄭安授,陳世哲: enrolled 199→198, remaining 1→2
+  MIS572 康藝晃: enrolled 53→52, remaining -3→-2
+  MIS501 徐士傑: enrolled 48→47, remaining 2→3
+  CM515 吳偉寧: registered 1→2, enrolled 26→25, remaining 24→25
+  ASPT598 吳松茂,張美濙,施孟鎧,林勇志,汪正祺,潘正堂,王志逢,王郁仁,蔡崇煒,蔡潤波,郭紹偉,陳信助,魏家博,黃仲平: registered 0→1, enrolled 70→69, remaining 15→16
+  BM646 薛西全: registered 1→2, enrolled 17→16, remaining 33→34
+  MIS512 黃三益: enrolled 66→65, remaining -16→-15
+  PHY102F 范越芳: enrolled 49→48, remaining 1→2
+  MIS583 楊惠芳: enrolled 32→31, remaining 18→19
+  BM513 林政佑: registered 0→1, enrolled 22→21, remaining 28→29
+  BMST204 楊易軒: enrolled 42→41, remaining 8→9
+  MIS512 黃三益: enrolled 66→65, remaining -16→-15
+  GEAE2344 伊藤佳代: registered 4→5, enrolled 32→31, remaining 18→19
+  GEAE2154 林宜誠: enrolled 52→51, remaining -2→-1
+  GENL0001G 陳秋宏: enrolled 46→45, remaining -1→0
+  BMST103 陳延安: enrolled 46→45, remaining 4→5
+  MIS590 羅珮綺: enrolled 49→48, remaining 1→2
+  CM507 王致遠,謝慧賢,鄭安授,陳世哲: enrolled 199→198, remaining 1→2
+  BM601 蔡宗霖: enrolled 66→65, remaining -16→-15
+  ASPT596 林勇志,王志逢,蔡潤波,陳信助,黃仲平: enrolled 75→74, remaining 10→11
+  BMST101 林萱文: enrolled 38→37, remaining 12→13
+  ASPT592 賴逸少: registered 0→1, enrolled 58→57, remaining 27→28
+  MIS583 楊惠芳: enrolled 32→31, remaining 18→19
