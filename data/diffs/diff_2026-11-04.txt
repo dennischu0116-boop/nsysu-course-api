@@ -1,0 +1,15 @@
+選課人數變動 14 個班次
+  MUSI218 郭瓊嬌: enrolled 45→44, remaining 5→6
+  MUSI102 張成璞: enrolled 42→41, remaining 8→9
+  GEAI1969 熊乃歡,王俞蓉,葉俊吟,郭素娥,陳嬿今: enrolled 34→33, remaining -4→-3
+  GEAE2622 夏燦風: enrolled 51→50, remaining -1→0
+  TA232A 張正霖: enrolled 34→33, remaining 16→17
+  IPS923 沈明璁: enrolled 17→16, remaining 33→34
+  GESL409 陳瑞華: enrolled 42→41, remaining -7→-6
+  IOE802 周珮儀,宋呈澔,張宇慧,施慶麟,林靜慧,楊淑晴,莊雪華,鄭雯: enrolled 12→11, remaining 38→39
+  FM909 指導教授: registered 0→1, enrolled 31→30, remaining 19→20
+  IOE804 鄭雯: enrolled 13→12, remaining 37→38
+  ECON935 鄭子長: enrolled 9→8, remaining 41→42
+  MUSI138 林健吉,馮悅情,黃子珊: enrolled 8→7, remaining 42→43
+  ECON921 翁銘章: enrolled 12→11, remaining 38→39
+  IPS931 黃韋豪: enrolled 11→10, remaining 39→40
