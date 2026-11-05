@@ -1,0 +1,5 @@
+選課人數變動 4 個班次
+  MATH503 張中: enrolled 18→17, remaining 12→13
+  MATH516 林建同: enrolled 17→16, remaining 13→14
+  MATH523 張福春: enrolled 6→5, remaining 24→25
+  MATH524 鍾思齊: enrolled 24→23, remaining 6→7
