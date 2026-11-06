@@ -1,0 +1,12 @@
+選課人數變動 11 個班次
+  SOC257 方志恒: enrolled 28→27, remaining -8→-7
+  CM507 王致遠,謝慧賢,鄭安授,陳世哲: enrolled 198→197, remaining 2→3
+  CM507 王致遠,謝慧賢,鄭安授,陳世哲: enrolled 198→197, remaining 2→3
+  GEAIE804 范澤凱: enrolled 50→49, remaining 0→1
+  PE302 辛翠玲: enrolled 52→51, remaining 3→4
+  PE201 李明軒: enrolled 70→69, remaining 15→16
+  DFLL238A 陳麗雅: enrolled 21→20, remaining -1→0
+  BM345 陳信智: enrolled 47→46, remaining 3→4
+  GEAE2109 楊濟襄: enrolled 81→80, remaining -1→0
+  FM903 羅勝議: enrolled 33→32, remaining 17→18
+  PE309 陳若蘭: enrolled 67→66, remaining -7→-6
