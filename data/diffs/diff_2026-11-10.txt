@@ -1,0 +1,7 @@
+新增 20 個班次
+消失 20 個班次
+選課人數變動 4 個班次
+  PAM907A 蔡錦昌: enrolled 9→8, remaining 41→42
+  PAM905A 謝政勳: enrolled 10→9, remaining 40→41
+  PAM985 謝政勳: enrolled 25→24, remaining 25→26
+  PAM940 張瓊婷,彭渰雯,謝旭昇: enrolled 8→7, remaining 42→43
