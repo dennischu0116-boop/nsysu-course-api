@@ -1,0 +1,9 @@
+新增 20 個班次
+消失 20 個班次
+選課人數變動 6 個班次
+  MOES543 郭紹偉: enrolled 58→57, remaining 2→3
+  MOES501 李廣輝: enrolled 74→73, remaining -4→-3
+  MOES543 郭紹偉: enrolled 58→57, remaining 2→3
+  MOES501 李廣輝: enrolled 74→73, remaining -4→-3
+  MOES592 陳致光: enrolled 5→4, remaining 15→16
+  MOES592 陳致光: enrolled 5→4, remaining 15→16
