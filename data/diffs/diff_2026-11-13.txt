@@ -1,0 +1,11 @@
+新增 11 個班次
+消失 11 個班次
+選課人數變動 8 個班次
+  MATH315 陳志漢: enrolled 16→15, remaining 34→35
+  MATH306 施嘉翰: enrolled 24→23, remaining 26→27
+  IB695 劉易: enrolled 14→18, remaining 36→32
+  MATH302 許柏翰: enrolled 37→36, remaining 13→14
+  MATH303 王以晟: enrolled 37→36, remaining 13→14
+  MATH427 李欣倫: enrolled 40→39, remaining 10→11
+  MATH301 呂宗澤: enrolled 30→29, remaining 20→21
+  IB693 珍妮: enrolled 14→18, remaining 36→32
