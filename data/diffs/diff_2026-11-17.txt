@@ -1,0 +1,8 @@
+新增 20 個班次
+消失 20 個班次
+選課人數變動 5 個班次
+  GEAI1985 李孟娟: enrolled 42→41, remaining -2→-1
+  EE1301B 魏家博: enrolled 62→61, remaining 8→9
+  EE1300B 翁愷貽: enrolled 62→61, remaining 13→14
+  EE1003B 陳美如: enrolled 56→55, remaining 14→15
+  EE1700B 王朝欽: enrolled 65→64, remaining 15→16
