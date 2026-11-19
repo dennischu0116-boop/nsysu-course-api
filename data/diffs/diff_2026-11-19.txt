@@ -1,0 +1,12 @@
+選課人數變動 11 個班次
+  MEME307 許聖彥: enrolled 63→62, remaining 7→8
+  MEME111 楊政融: enrolled 49→48, remaining 1→2
+  SOC302 萬毓澤: enrolled 52→51, remaining -2→-1
+  DFLL680B 范澤凱: enrolled 1→0, remaining 49→50
+  SOC352 林傳凱,王梅香: enrolled 11→10, remaining 39→40
+  MEME315 劉耿豪,嚴成文,朱訓鵬,李伯軒,李明展,林哲信,楊政融,汪正祺,胡龍豪,蔡尚南,許煜亮,郭振坤,鄭威利: enrolled 79→78, remaining 41→42
+  MEME549 嚴成文: registered 1→2, enrolled 69→68, remaining 6→7
+  GEAE2209 陳立驤: enrolled 64→63, remaining -14→-13
+  GEAE2113 吳亦昕,林季怡: enrolled 117→116, remaining -7→-6
+  SOC201 戴昀: enrolled 48→47, remaining 2→3
+  SOC220 戴昀: enrolled 48→47, remaining 2→3
