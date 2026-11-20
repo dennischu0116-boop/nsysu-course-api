@@ -1,0 +1,17 @@
+新增 24 個班次
+消失 24 個班次
+選課人數變動 14 個班次
+  MEME204B 程啓正: enrolled 64→63, remaining -14→-13
+  CHEM574 丁尚武: enrolled 23→22, remaining 27→28
+  MEME327 李明展: enrolled 68→67, remaining -18→-17
+  MEME201B 汪正祺: enrolled 41→40, remaining 9→10
+  CHEM511 梁子輝: enrolled 5→4, remaining 45→46
+  CHEM556 廖志中: registered 0→1, enrolled 33→32, remaining 17→18
+  CHEM546 王琢堅: enrolled 18→17, remaining 32→33
+  GEAE2332 王啟仲: registered 12→13, enrolled 85→84, remaining -15→-14
+  CHEM579 謝建台: enrolled 39→38, remaining 11→12
+  MEME203B 廖俊忠: enrolled 55→54, remaining -5→-4
+  CHEM631 李志聰,謝建台: enrolled 70→69, remaining -10→-9
+  MEME207B 楊上德: enrolled 42→41, remaining 8→9
+  MEME205B 李伯軒: enrolled 48→47, remaining 2→3
+  GEAP207 陳瑞華: registered 0→1, enrolled 41→40, remaining -6→-5
