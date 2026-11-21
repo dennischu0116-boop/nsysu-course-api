@@ -1,0 +1,13 @@
+新增 44 個班次
+消失 44 個班次
+選課人數變動 10 個班次
+  GENL0001L 陳明聖: enrolled 47→46, remaining -2→-1
+  GEAE2105 林季怡: enrolled 56→55, remaining -6→-5
+  PHY102A 陳龍銘: enrolled 59→58, remaining -9→-8
+  BIOS361 劉世慧: registered 0→1, enrolled 11→10, remaining 39→40
+  EE1300 陳伯煒: enrolled 68→67, remaining 2→3
+  EO1003 張福春: enrolled 29→28, remaining 21→22
+  PHY108A 吳紘丞: enrolled 71→70, remaining -1→0
+  BIOS373 費卡契: registered 0→1, enrolled 17→16, remaining 33→34
+  GEPE102G 蔡鋒樺: enrolled 64→63, remaining -9→-8
+  BIOS261 劉世慧: registered 0→1, enrolled 11→10, remaining 39→40
