@@ -1,0 +1,2 @@
+選課人數變動 1 個班次
+  IPS907 指導教授: enrolled 6→5, remaining 44→45
