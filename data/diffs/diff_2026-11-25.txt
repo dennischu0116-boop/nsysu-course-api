@@ -1,0 +1,10 @@
+選課人數變動 9 個班次
+  GEAI1048 宋世祥: enrolled 22→21, remaining 3→4
+  PE109 張其祿: enrolled 56→55, remaining -6→-5
+  PE101 張光亮: enrolled 54→53, remaining 1→2
+  GESL392 古錦松: enrolled 30→29, remaining 0→1
+  GENL0001F 謝薇娜: enrolled 47→46, remaining -2→-1
+  GEEN117B 陳美淑: enrolled 33→32, remaining 2→3
+  PE110 王俊傑: enrolled 62→61, remaining -12→-11
+  GEPE102Q 林國欽: enrolled 55→54, remaining 0→1
+  GEAE2632 劉叔秋,張詠斌: enrolled 182→181, remaining -32→-31
