@@ -1,0 +1,15 @@
+選課人數變動 14 個班次
+  GEAI1944 李昇翰: enrolled 37→36, remaining 3→4
+  PIS1006 鄭南玉: enrolled 27→26, remaining 23→24
+  MATH103A 王以晟: enrolled 26→25, remaining 24→25
+  MATH303 王以晟: enrolled 36→35, remaining 14→15
+  PIS2001 夏晧清,宋世祥,張淑美,鄭南玉: enrolled 33→32, remaining 17→18
+  TA171A 王以亮: enrolled 30→29, remaining 0→1
+  GEPE210B 洪維辰: enrolled 39→38, remaining 11→12
+  PIS2002 宋世祥: enrolled 30→29, remaining 10→11
+  ASPT575 林勇志: enrolled 43→42, remaining 2→3
+  ASPT580 汪正祺,王郁仁: enrolled 35→34, remaining -3→-2
+  GEAE2204 戴遠雄: enrolled 49→48, remaining 1→2
+  ASPT545 王志逢: enrolled 36→35, remaining -4→-3
+  ASPT567A 黃仲平: enrolled 28→27, remaining 4→5
+  PIS1213 李怡賡: enrolled 18→17, remaining 32→33
