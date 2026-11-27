@@ -1,0 +1,9 @@
+選課人數變動 8 個班次
+  PHYS117 陳易馨: enrolled 35→34, remaining 15→16
+  GEAE2117 林宜誠: registered 4→5, enrolled 47→46, remaining 3→4
+  EE3113 洪皓君: enrolled 20→19, remaining 30→31
+  PHY101 陳易馨: registered 1→2, enrolled 35→34, remaining 15→16
+  PHYS121 吳紘丞,嚴祖強: enrolled 32→31, remaining 18→19
+  CL433 鍾志偉: enrolled 31→30, remaining -1→0
+  GEAE2108 江政寬: registered 5→6, enrolled 85→84, remaining -5→-4
+  PHYS121 吳紘丞,嚴祖強: enrolled 32→31, remaining 18→19
